@@ -44,13 +44,14 @@ Git · Docker · Figma · VS Code · CI/CD Pipelines
 
 🧠 [The Wise AI Website](https://github.com/HamdiEA/the-wise-ai)
 Full-stack web app integrating an AI API to provide intelligent chatbot and content-generation features.  
-_Tech stack: React, TypeScript, Node.js, Tailwind CSS, OpenAI API_
-
-
-🍽️ [The Wise Restaurant](https://github.com/HamdiEA/thewiserestaurant)
+_Tech stack: React, TypeScript, Node.js, Tailwind CSS, OpenRouterAPI_
 Responsive restaurant website built with TypeScript and React.  
 Includes interactive menus, reservation forms, and a modern UI.  
 _Tech stack: React, Node.js, Tailwind CSS, Vite_
+
+
+
+
 
 
 
