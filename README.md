@@ -1,87 +1,105 @@
-👋 Hi, I'm Hamdi El Abed
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=200&section=header&text=Hamdi%20El%20Abed%20🚀%20Full-Stack%20%26%20Voice-AI%20Developer&fontColor=ffffff&fontSize=28)
 
-🎓 **Computer Science student at INSA Hauts-de-France (France)**  
-💻 Focused on **Full-Stack Web Development** & **AI Integration**  
-🌍 Based in France, originally from Tunisia — aiming to start my career in **Switzerland (Geneva / Lausanne)**  
+👋 Hi, I'm Hamdi El Abed  
+
+🎓 Computer Science student at INSA Hauts-de-France (France)  
+💻 Passionate about Full-Stack Web Development & Voice-AI Integration  
+🌍 Based in France, originally from Tunisia — currently preparing my final-year internship in France,  
+and aiming to start my professional career in Switzerland (Geneva / Lausanne) after graduation.  
+
+
+
+🤝 Connect with me  
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdielabedtn1@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamdiea)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfulioea.netlify.app)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamdiEA)
+
+
+
+🚀 I’m a developer focused on **creating modern, intelligent web applications**.  
+I enjoy blending **React + Node.js** for scalable web systems and **AI voice technologies** like Google Cloud and ElevenLabs to build interactive, human-like experiences.  
+
+
+💡 About Me  
+
+- 🌱 Currently learning: advanced Python TypeScript Node.js APIs and cloud-based voice AI  
+- 💬 Ask me about: web/web-app development, AI API integration, or voice-driven UX  
+- ⚡ Fun fact: I code automation before I even repeat a task twice  
+
+
+
+🛠 Skills  
+
+💻 Programming Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff)
 
 ---
 
-💡 About Me
-
-I’m a pragmatic developer who enjoys transforming ideas into functional, reliable, and elegant applications.  
-My work bridges **frontend design**, **backend logic**, and **AI-driven functionality**, with a focus on clean structure and user experience.  
-
-Currently, I’m exploring:
-- Advanced **React + Node.js** development  
-- **AI integration** (OpenAI API, speech & decision logic)  
-- Scalable project deployment and CI/CD  
-
----
-
-⚙️ Technical Skills
-
-Languages  
-JavaScript · TypeScript · Python · Java · C · SQL · MATLAB  
-
-Frontend* 
-React · Vite · Tailwind CSS · Bootstrap  
-
-Backend  
-Node.js · Express  
-
-Databases  
-MySQL · Microsoft Access  
-
-**AI & Voice Tech**  
-OpenAI API · SpeechRecognition · pyttsx3 · Decision Trees  
-
-Tools
-Git · Docker · Figma · VS Code · CI/CD Pipelines  
+🌐 Frontend Development  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 
 
 
-🚀 Selected Projects
+⚙️ Backend Development  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+
+
+
+🧠 Voice & AI Technologies  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20Speech--to--Text-4285F4?logo=googlecloud&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-FF6F00?logoColor=white)
+![Python AI](https://img.shields.io/badge/-Python%20AI-4B8BBE?logo=python&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/-Decision%20Logic-4B8BBE?logo=python&logoColor=white)
+
+
+🗄️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![Microsoft Access](https://img.shields.io/badge/-MS%20Access-A4373A?logo=microsoftaccess&logoColor=fff)
+
+
+
+🔧 Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+
+
+🚀 Featured Projects  
 
 🧠 [The Wise AI Website](https://github.com/HamdiEA/the-wise-ai)
-Full-stack web app integrating an AI API to provide intelligent chatbot and content-generation features.  
-_Tech stack: React, TypeScript, Node.js, Tailwind CSS, OpenRouterAPI_
-Responsive restaurant website built with TypeScript and React.  
-Includes interactive menus, reservation forms, and a modern UI.  
-_Tech stack: React, Node.js, Tailwind CSS, Vite_
+Full-stack web app integrating AI APIs for chatbot and content generation.  
+_Tech Stack : React · TypeScript · Node.js · Tailwind CSS · AI Integration_
+A TypeScript + React restaurant website with responsive design and modern UI.  
+_Tech Stack : React · Node.js · Tailwind CSS · Vite_
 
 
-
-
-
-
-
-🎮 [Sense (Final-Year Project)]()
-An interactive **Python educational game** combining **speech recognition, text-to-speech, and adaptive AI logic**.  
-Developed as part of my Licence graduation project.  
-_Tech stack: Python, Pygame, SpeechRecognition, pyttsx3_
-
+🎮 [Sense – Final-Year Project]()
+An interactive educational game powered by voice recognition and text-to-speech using  
+Google Cloud Speech-to-Text and ElevenLabs APIs.  
+_Tech Stack : Python · Pygame · Google Cloud STT · ElevenLabs TTS · Custom AI Logic_
 
 
 🌐 [Portfolio](https://portfulioea.netlify.app)
-My personal portfolio presenting projects and academic background.  
+Personal portfolio showcasing my projects and academic background.  
 _HTML · Bootstrap · Netlify_
 
 
 
-📊 GitHub Overview
+📊 GitHub Stats  
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=HamdiEA&show_icons=true&theme=default" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiEA&layout=compact&theme=default" />
 </p>
-
-
-
-🤝 Let’s Connect
-
-📧 [hamdielabedtn1@gmail.com](mailto:hamdielabedtn1@gmail.com)  
-🔗 [linkedin.com/in/hamdiea](https://www.linkedin.com/in/hamdiea)  
-🌐 [portfulioea.netlify.app](https://portfulioea.netlify.app)  
-
 
 
