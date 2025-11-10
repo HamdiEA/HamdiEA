@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=200&section=header&text=Hamdi%20El%20Abed%20🚀%20Full-Stack%20%26%20Voice-AI%20Developer&fontColor=ffffff&fontSize=28)
 
 👋 Hi, I'm Hamdi El Abed  
 
