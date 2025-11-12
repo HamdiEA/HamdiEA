@@ -18,7 +18,7 @@
 ## 🚀 About Me  
 
 I’m a developer focused on **building modern, intelligent, and human-centered web applications**.  
-I love combining **React + Node.js** for scalable systems and integrating **AI voice technologies** (Google Cloud, ElevenLabs, and open-source APIs) to create natural user experiences.  
+I love combining **React + Node.js** for scalable systems and integrating **AI voice technologies** (Google Cloud, ElevenLabs, and open-source APIs ect...) to create natural user experiences.  
 
 - 🌱 Currently learning: Advanced **TypeScript**, **Node.js APIs**, and **Cloud-based AI Voice Systems**  
 - 💬 Ask me about: **Web app development**, **AI API integration (open-source & commercial)**, or **voice-driven UX**  
